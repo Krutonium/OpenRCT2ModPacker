@@ -3,7 +3,7 @@ Mod Packer for OpenRCT2Launcher
 
 
 [![Join the chat at https://gitter.im/PFCKrutonium/OpenRCT2Launcher](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PFCKrutonium/OpenRCT2Launcher?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+[![Build status](https://ci.appveyor.com/api/projects/status/dk8x625gvx62x0x6?svg=true)](https://ci.appveyor.com/project/PFCKrutonium/openrct2modpacker)
 
 Allows simple Packing and Unpacking of mod packs.
 
