@@ -1,0 +1,7 @@
+version: 1.0.{build}
+build:
+  project: OpenRCT2ModPacker.sln
+  verbosity: normal
+  
+configuration:
+  - Release
