@@ -1,6 +1,6 @@
 version: 1.0.{build}
 build:
-  project: OpenRCT2ModPacker.sln
+  project: OpenRCT2ModPacker\OpenRCT2ModPacker.vbproj
   verbosity: normal
   
 configuration:
